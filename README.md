@@ -1,5 +1,5 @@
 
-# 🎥 YouTube Analytics Data Engineering Pipeline  
+# YouTube Analytics Data Engineering Pipeline  
 <br>
 <br>
 

@@ -1,5 +1,5 @@
+<h1 align="center">YouTube Analytics Data Engineering Pipeline</h1>
 
-# YouTube Analytics Data Engineering Pipeline  
 <br>
 <br>
 
@@ -9,12 +9,12 @@
 
 <br>
 
-##  Project Overview
+##  Project Overview :
 An end-to-end **cloud-based data engineering pipeline** built on **AWS** to analyze **YouTube trending video data**. The project covers **data ingestion, ETL, storage in S3, querying with Athena, and visualization with QuickSight**.
 
 ---
 
-##  Project Workflow
+##  Project Workflow :
 
 ###  Data Ingestion
 - Collected **1M+ daily YouTube trending records** across **10+ regions**.
@@ -38,7 +38,7 @@ An end-to-end **cloud-based data engineering pipeline** built on **AWS** to anal
 
 ---
 
-##  Tools & Technologies
+##  Tools & Technologies :
 - **AWS S3** – Scalable storage  
 - **AWS Glue + PySpark** – ETL orchestration  
 - **Amazon Athena** – Serverless querying  
@@ -47,7 +47,7 @@ An end-to-end **cloud-based data engineering pipeline** built on **AWS** to anal
 
 ---
 
-##  Key Outcomes
+##  Key Outcomes :
 - Efficiently processed **1M+ daily records** across multiple regions.  
 - Established a scalable, partitioned **data lake architecture**.  
 - Delivered **insightful dashboards** for trend and engagement analytics.  
